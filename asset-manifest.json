@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kano1663012/React-App.git/static/css/main.e6c13ad2.css",
+    "main.js": "/kano1663012/React-App.git/static/js/main.b79b92d5.js",
+    "static/js/787.d8175b3f.chunk.js": "/kano1663012/React-App.git/static/js/787.d8175b3f.chunk.js",
+    "index.html": "/kano1663012/React-App.git/index.html",
+    "main.e6c13ad2.css.map": "/kano1663012/React-App.git/static/css/main.e6c13ad2.css.map",
+    "main.b79b92d5.js.map": "/kano1663012/React-App.git/static/js/main.b79b92d5.js.map",
+    "787.d8175b3f.chunk.js.map": "/kano1663012/React-App.git/static/js/787.d8175b3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b79b92d5.js"
+  ]
+}
